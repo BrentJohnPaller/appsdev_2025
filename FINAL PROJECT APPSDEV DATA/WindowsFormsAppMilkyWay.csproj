@@ -1,0 +1,849 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A8A72265-7088-41EA-AE29-9A100D9F6548}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WindowsFormsAppMilkyWay</RootNamespace>
+    <AssemblyName>WindowsFormsAppMilkyWay</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>WindowsFormsAppMilkyWay.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="About.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="About.Designer.cs">
+      <DependentUpon>About.cs</DependentUpon>
+    </Compile>
+    <Compile Include="About_Us2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="About_Us2.Designer.cs">
+      <DependentUpon>About_Us2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="adminMainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adminMainForm.Designer.cs">
+      <DependentUpon>adminMainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerSupport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerSupport.Designer.cs">
+      <DependentUpon>CustomerSupport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forget Pass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forget Pass.Designer.cs">
+      <DependentUpon>Forget Pass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home.Designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Log In.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Log In.Designer.cs">
+      <DependentUpon>Log In.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Message.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Message.Designer.cs">
+      <DependentUpon>Message.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MessProduct1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MessProduct1.Designer.cs">
+      <DependentUpon>MessProduct1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MessProduct10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MessProduct10.Designer.cs">
+      <DependentUpon>MessProduct10.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MessProduct11.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MessProduct11.Designer.cs">
+      <DependentUpon>MessProduct11.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MessProduct12.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MessProduct12.Designer.cs">
+      <DependentUpon>MessProduct12.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MessProduct13.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MessProduct13.Designer.cs">
+      <DependentUpon>MessProduct13.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MessProduct14.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MessProduct14.Designer.cs">
+      <DependentUpon>MessProduct14.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MessProduct15.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MessProduct15.Designer.cs">
+      <DependentUpon>MessProduct15.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MessProduct16.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MessProduct16.Designer.cs">
+      <DependentUpon>MessProduct16.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MessProduct17.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MessProduct17.Designer.cs">
+      <DependentUpon>MessProduct17.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MessProduct18.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MessProduct18.Designer.cs">
+      <DependentUpon>MessProduct18.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MessProduct19.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MessProduct19.Designer.cs">
+      <DependentUpon>MessProduct19.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MessProduct2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MessProduct2.Designer.cs">
+      <DependentUpon>MessProduct2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MessProduct20.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MessProduct20.Designer.cs">
+      <DependentUpon>MessProduct20.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MessProduct21.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MessProduct21.Designer.cs">
+      <DependentUpon>MessProduct21.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MessProduct22.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MessProduct22.Designer.cs">
+      <DependentUpon>MessProduct22.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MessProduct23.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MessProduct23.Designer.cs">
+      <DependentUpon>MessProduct23.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MessProduct24.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MessProduct24.Designer.cs">
+      <DependentUpon>MessProduct24.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MessProduct25.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MessProduct25.Designer.cs">
+      <DependentUpon>MessProduct25.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MessProduct26.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MessProduct26.Designer.cs">
+      <DependentUpon>MessProduct26.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MessProduct27.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MessProduct27.Designer.cs">
+      <DependentUpon>MessProduct27.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MessProduct28.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MessProduct28.Designer.cs">
+      <DependentUpon>MessProduct28.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MessProduct3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MessProduct3.Designer.cs">
+      <DependentUpon>MessProduct3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MessProduct4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MessProduct4.Designer.cs">
+      <DependentUpon>MessProduct4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MessProduct5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MessProduct5.Designer.cs">
+      <DependentUpon>MessProduct5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MessProduct6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MessProduct6.Designer.cs">
+      <DependentUpon>MessProduct6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MessProduct7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MessProduct7.Designer.cs">
+      <DependentUpon>MessProduct7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MessProduct8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MessProduct8.Designer.cs">
+      <DependentUpon>MessProduct8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MessProduct9.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MessProduct9.Designer.cs">
+      <DependentUpon>MessProduct9.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MilkyWay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MilkyWay.Designer.cs">
+      <DependentUpon>MilkyWay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="New.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="New.Designer.cs">
+      <DependentUpon>New.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Popular.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Popular.Designer.cs">
+      <DependentUpon>Popular.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Product1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Product1.Designer.cs">
+      <DependentUpon>Product1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Product10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Product10.Designer.cs">
+      <DependentUpon>Product10.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Product11.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Product11.Designer.cs">
+      <DependentUpon>Product11.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Product12.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Product12.Designer.cs">
+      <DependentUpon>Product12.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Product13.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Product13.Designer.cs">
+      <DependentUpon>Product13.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Product14.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Product14.Designer.cs">
+      <DependentUpon>Product14.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Product15.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Product15.Designer.cs">
+      <DependentUpon>Product15.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Product16.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Product16.Designer.cs">
+      <DependentUpon>Product16.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Product17.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Product17.Designer.cs">
+      <DependentUpon>Product17.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Product18.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Product18.Designer.cs">
+      <DependentUpon>Product18.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Product19.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Product19.Designer.cs">
+      <DependentUpon>Product19.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Product2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Product2.Designer.cs">
+      <DependentUpon>Product2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Product20.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Product20.Designer.cs">
+      <DependentUpon>Product20.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Product21.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Product21.Designer.cs">
+      <DependentUpon>Product21.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Product22.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Product22.Designer.cs">
+      <DependentUpon>Product22.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Product23.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Product23.Designer.cs">
+      <DependentUpon>Product23.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Product24.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Product24.Designer.cs">
+      <DependentUpon>Product24.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Product25.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Product25.Designer.cs">
+      <DependentUpon>Product25.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Product26.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Product26.Designer.cs">
+      <DependentUpon>Product26.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Product27.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Product27.Designer.cs">
+      <DependentUpon>Product27.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Product28.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Product28.Designer.cs">
+      <DependentUpon>Product28.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Product3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Product3.Designer.cs">
+      <DependentUpon>Product3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Product4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Product4.Designer.cs">
+      <DependentUpon>Product4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Product5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Product5.Designer.cs">
+      <DependentUpon>Product5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Product6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Product6.Designer.cs">
+      <DependentUpon>Product6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Product7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Product7.Designer.cs">
+      <DependentUpon>Product7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Product8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Product8.Designer.cs">
+      <DependentUpon>Product8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Product9.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Product9.Designer.cs">
+      <DependentUpon>Product9.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Profile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Profile.Designer.cs">
+      <DependentUpon>Profile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Recommended1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recommended1.Designer.cs">
+      <DependentUpon>Recommended1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Recommended10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recommended10.Designer.cs">
+      <DependentUpon>Recommended10.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Recommended12.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recommended12.Designer.cs">
+      <DependentUpon>Recommended12.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Recommended13.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recommended13.Designer.cs">
+      <DependentUpon>Recommended13.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Recommended14.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recommended14.Designer.cs">
+      <DependentUpon>Recommended14.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Recommended15.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recommended15.Designer.cs">
+      <DependentUpon>Recommended15.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Recommended2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recommended2.Designer.cs">
+      <DependentUpon>Recommended2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Recommended3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recommended3.Designer.cs">
+      <DependentUpon>Recommended3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Recommended4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recommended4.Designer.cs">
+      <DependentUpon>Recommended4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Recommended5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recommended5.Designer.cs">
+      <DependentUpon>Recommended5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Recommended6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recommended6.Designer.cs">
+      <DependentUpon>Recommended6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Recommended7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recommended7.Designer.cs">
+      <DependentUpon>Recommended7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Recommended11.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recommended11.Designer.cs">
+      <DependentUpon>Recommended11.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Recommended8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recommended8.Designer.cs">
+      <DependentUpon>Recommended8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Recommended9.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recommended9.Designer.cs">
+      <DependentUpon>Recommended9.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SignUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SignUp.Designer.cs">
+      <DependentUpon>SignUp.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="About.resx">
+      <DependentUpon>About.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="About_Us2.resx">
+      <DependentUpon>About_Us2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="adminMainForm.resx">
+      <DependentUpon>adminMainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerSupport.resx">
+      <DependentUpon>CustomerSupport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forget Pass.resx">
+      <DependentUpon>Forget Pass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Log In.resx">
+      <DependentUpon>Log In.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Message.resx">
+      <DependentUpon>Message.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MessProduct1.resx">
+      <DependentUpon>MessProduct1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MessProduct10.resx">
+      <DependentUpon>MessProduct10.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MessProduct11.resx">
+      <DependentUpon>MessProduct11.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MessProduct12.resx">
+      <DependentUpon>MessProduct12.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MessProduct13.resx">
+      <DependentUpon>MessProduct13.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MessProduct14.resx">
+      <DependentUpon>MessProduct14.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MessProduct15.resx">
+      <DependentUpon>MessProduct15.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MessProduct16.resx">
+      <DependentUpon>MessProduct16.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MessProduct17.resx">
+      <DependentUpon>MessProduct17.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MessProduct18.resx">
+      <DependentUpon>MessProduct18.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MessProduct19.resx">
+      <DependentUpon>MessProduct19.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MessProduct2.resx">
+      <DependentUpon>MessProduct2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MessProduct20.resx">
+      <DependentUpon>MessProduct20.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MessProduct21.resx">
+      <DependentUpon>MessProduct21.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MessProduct22.resx">
+      <DependentUpon>MessProduct22.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MessProduct23.resx">
+      <DependentUpon>MessProduct23.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MessProduct24.resx">
+      <DependentUpon>MessProduct24.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MessProduct25.resx">
+      <DependentUpon>MessProduct25.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MessProduct26.resx">
+      <DependentUpon>MessProduct26.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MessProduct27.resx">
+      <DependentUpon>MessProduct27.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MessProduct28.resx">
+      <DependentUpon>MessProduct28.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MessProduct3.resx">
+      <DependentUpon>MessProduct3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MessProduct4.resx">
+      <DependentUpon>MessProduct4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MessProduct5.resx">
+      <DependentUpon>MessProduct5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MessProduct6.resx">
+      <DependentUpon>MessProduct6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MessProduct7.resx">
+      <DependentUpon>MessProduct7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MessProduct8.resx">
+      <DependentUpon>MessProduct8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MessProduct9.resx">
+      <DependentUpon>MessProduct9.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MilkyWay.resx">
+      <DependentUpon>MilkyWay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="New.resx">
+      <DependentUpon>New.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Popular.resx">
+      <DependentUpon>Popular.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Product1.resx">
+      <DependentUpon>Product1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Product10.resx">
+      <DependentUpon>Product10.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Product11.resx">
+      <DependentUpon>Product11.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Product12.resx">
+      <DependentUpon>Product12.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Product13.resx">
+      <DependentUpon>Product13.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Product14.resx">
+      <DependentUpon>Product14.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Product15.resx">
+      <DependentUpon>Product15.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Product16.resx">
+      <DependentUpon>Product16.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Product17.resx">
+      <DependentUpon>Product17.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Product18.resx">
+      <DependentUpon>Product18.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Product19.resx">
+      <DependentUpon>Product19.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Product2.resx">
+      <DependentUpon>Product2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Product20.resx">
+      <DependentUpon>Product20.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Product21.resx">
+      <DependentUpon>Product21.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Product22.resx">
+      <DependentUpon>Product22.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Product23.resx">
+      <DependentUpon>Product23.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Product24.resx">
+      <DependentUpon>Product24.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Product25.resx">
+      <DependentUpon>Product25.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Product26.resx">
+      <DependentUpon>Product26.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Product27.resx">
+      <DependentUpon>Product27.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Product28.resx">
+      <DependentUpon>Product28.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Product3.resx">
+      <DependentUpon>Product3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Product4.resx">
+      <DependentUpon>Product4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Product5.resx">
+      <DependentUpon>Product5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Product6.resx">
+      <DependentUpon>Product6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Product7.resx">
+      <DependentUpon>Product7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Product8.resx">
+      <DependentUpon>Product8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Product9.resx">
+      <DependentUpon>Product9.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Profile.resx">
+      <DependentUpon>Profile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Recommended1.resx">
+      <DependentUpon>Recommended1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recommended10.resx">
+      <DependentUpon>Recommended10.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recommended11.resx">
+      <DependentUpon>Recommended11.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recommended12.resx">
+      <DependentUpon>Recommended12.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recommended13.resx">
+      <DependentUpon>Recommended13.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recommended14.resx">
+      <DependentUpon>Recommended14.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recommended15.resx">
+      <DependentUpon>Recommended15.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recommended2.resx">
+      <DependentUpon>Recommended2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recommended3.resx">
+      <DependentUpon>Recommended3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recommended4.resx">
+      <DependentUpon>Recommended4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recommended5.resx">
+      <DependentUpon>Recommended5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recommended6.resx">
+      <DependentUpon>Recommended6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recommended7.resx">
+      <DependentUpon>Recommended7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recommended8.resx">
+      <DependentUpon>Recommended8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recommended9.resx">
+      <DependentUpon>Recommended9.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SignUp.resx">
+      <DependentUpon>SignUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
