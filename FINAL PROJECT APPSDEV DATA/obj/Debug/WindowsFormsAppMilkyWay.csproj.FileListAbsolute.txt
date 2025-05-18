@@ -1,0 +1,111 @@
+C:\Users\Aljhon\OneDrive\Documents\Chapter 1 Working with CheckedListBox - Part I\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\bin\Debug\WindowsFormsAppMilkyWay.exe.config
+C:\Users\Aljhon\OneDrive\Documents\Chapter 1 Working with CheckedListBox - Part I\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\bin\Debug\WindowsFormsAppMilkyWay.exe
+C:\Users\Aljhon\OneDrive\Documents\Chapter 1 Working with CheckedListBox - Part I\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\bin\Debug\WindowsFormsAppMilkyWay.pdb
+C:\Users\Aljhon\OneDrive\Documents\Chapter 1 Working with CheckedListBox - Part I\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.csproj.AssemblyReference.cache
+C:\Users\Aljhon\OneDrive\Documents\Chapter 1 Working with CheckedListBox - Part I\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.Form1.resources
+C:\Users\Aljhon\OneDrive\Documents\Chapter 1 Working with CheckedListBox - Part I\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.Log_In.resources
+C:\Users\Aljhon\OneDrive\Documents\Chapter 1 Working with CheckedListBox - Part I\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.Properties.Resources.resources
+C:\Users\Aljhon\OneDrive\Documents\Chapter 1 Working with CheckedListBox - Part I\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.csproj.GenerateResource.cache
+C:\Users\Aljhon\OneDrive\Documents\Chapter 1 Working with CheckedListBox - Part I\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.csproj.CoreCompileInputs.cache
+C:\Users\Aljhon\OneDrive\Documents\Chapter 1 Working with CheckedListBox - Part I\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.exe
+C:\Users\Aljhon\OneDrive\Documents\Chapter 1 Working with CheckedListBox - Part I\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.pdb
+C:\Users\Aljhon\OneDrive\Documents\Chapter 1 Working with CheckedListBox - Part I\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.About.resources
+C:\Users\Aljhon\OneDrive\Documents\Chapter 1 Working with CheckedListBox - Part I\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.SignUp.resources
+C:\Users\Aljhon\OneDrive\Documents\Chapter 1 Working with CheckedListBox - Part I\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.Forget_Pass.resources
+C:\Users\Aljhon\OneDrive\Documents\Chapter 1 Working with CheckedListBox - Part I\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.MainForm.resources
+C:\Users\Aljhon\OneDrive\Documents\Chapter 1 Working with CheckedListBox - Part I\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.Home.resources
+C:\Users\Aljhon\OneDrive\Documents\Chapter 1 Working with CheckedListBox - Part I\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.Profile.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\bin\Debug\WindowsFormsAppMilkyWay.exe.config
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\bin\Debug\WindowsFormsAppMilkyWay.exe
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\bin\Debug\WindowsFormsAppMilkyWay.pdb
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.csproj.AssemblyReference.cache
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.About.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.Forget_Pass.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.Home.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.Log_In.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.MainForm.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.Form1.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.Profile.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.Properties.Resources.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.SignUp.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.csproj.GenerateResource.cache
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.csproj.CoreCompileInputs.cache
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.exe
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.pdb
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.adminMainForm.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.CustomerSupport.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.Message.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.Popular.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.Product1.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.Recommended1.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.Recommended2.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.Recommended3.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.Recommended4.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.Recommended5.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.Recommended6.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.Product2.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.Product3.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.MessProduct1.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.MessProduct2.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.MessProduct3.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.About_Us2.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.Recommended10.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.Recommended11.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.Recommended12.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.Recommended13.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.Recommended14.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.Recommended15.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.Recommended7.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.Recommended8.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.Recommended9.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.panelnewsee.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.Product10.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.Product11.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.Product12.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.Product13.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.Product14.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.Product15.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.Product16.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.Product17.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.Product18.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.Product19.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.Product20.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.Product21.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.Product22.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.Product23.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.Product24.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.Product4.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.Product5.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.Product6.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.Product7.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.Product8.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.Product9.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.MessProduct10.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.MessProduct11.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.MessProduct12.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.MessProduct13.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.MessProduct14.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.MessProduct15.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.MessProduct16.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.MessProduct17.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.MessProduct18.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.MessProduct19.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.MessProduct20.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.MessProduct21.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.MessProduct22.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.MessProduct23.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.MessProduct24.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.MessProduct4.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.MessProduct5.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.MessProduct6.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.MessProduct7.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.MessProduct8.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.MessProduct9.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.MessProduct25.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.MessProduct26.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.MessProduct27.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.Product25.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.Product26.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.Product27.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.MessProduct28.resources
+C:\Final Project APPSDEV data\WindowsFormsAppMilkyWay\WindowsFormsAppMilkyWay\obj\Debug\WindowsFormsAppMilkyWay.Product28.resources
