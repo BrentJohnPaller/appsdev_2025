@@ -1,0 +1,347 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Final Project APPSDEV data\\WindowsFormsAppMilkyWay\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A72265-7088-41EA-AE29-9A100D9F6548}|WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay.csproj|c:\\final project appsdev data\\windowsformsappmilkyway\\windowsformsappmilkyway\\recommended1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A72265-7088-41EA-AE29-9A100D9F6548}|WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay.csproj|solutionrelative:windowsformsappmilkyway\\recommended1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A72265-7088-41EA-AE29-9A100D9F6548}|WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay.csproj|c:\\final project appsdev data\\windowsformsappmilkyway\\windowsformsappmilkyway\\product25.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8A72265-7088-41EA-AE29-9A100D9F6548}|WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay.csproj|solutionrelative:windowsformsappmilkyway\\product25.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A72265-7088-41EA-AE29-9A100D9F6548}|WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay.csproj|c:\\final project appsdev data\\windowsformsappmilkyway\\windowsformsappmilkyway\\recommended1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8A72265-7088-41EA-AE29-9A100D9F6548}|WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay.csproj|solutionrelative:windowsformsappmilkyway\\recommended1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A72265-7088-41EA-AE29-9A100D9F6548}|WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay.csproj|C:\\Final Project APPSDEV data\\WindowsFormsAppMilkyWay\\windowsformsappmilkyway\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A72265-7088-41EA-AE29-9A100D9F6548}|WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay.csproj|solutionrelative:windowsformsappmilkyway\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A72265-7088-41EA-AE29-9A100D9F6548}|WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay.csproj|C:\\Final Project APPSDEV data\\WindowsFormsAppMilkyWay\\windowsformsappmilkyway\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8A72265-7088-41EA-AE29-9A100D9F6548}|WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay.csproj|solutionrelative:windowsformsappmilkyway\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A72265-7088-41EA-AE29-9A100D9F6548}|WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay.csproj|c:\\final project appsdev data\\windowsformsappmilkyway\\windowsformsappmilkyway\\milkyway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A72265-7088-41EA-AE29-9A100D9F6548}|WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay.csproj|solutionrelative:windowsformsappmilkyway\\milkyway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A72265-7088-41EA-AE29-9A100D9F6548}|WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay.csproj|c:\\final project appsdev data\\windowsformsappmilkyway\\windowsformsappmilkyway\\milkyway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8A72265-7088-41EA-AE29-9A100D9F6548}|WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay.csproj|solutionrelative:windowsformsappmilkyway\\milkyway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A72265-7088-41EA-AE29-9A100D9F6548}|WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay.csproj|C:\\Final Project APPSDEV data\\WindowsFormsAppMilkyWay\\windowsformsappmilkyway\\log in.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A72265-7088-41EA-AE29-9A100D9F6548}|WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay.csproj|solutionrelative:windowsformsappmilkyway\\log in.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A72265-7088-41EA-AE29-9A100D9F6548}|WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay.csproj|C:\\Final Project APPSDEV data\\WindowsFormsAppMilkyWay\\windowsformsappmilkyway\\log in.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8A72265-7088-41EA-AE29-9A100D9F6548}|WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay.csproj|solutionrelative:windowsformsappmilkyway\\log in.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A72265-7088-41EA-AE29-9A100D9F6548}|WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay.csproj|C:\\Final Project APPSDEV data\\WindowsFormsAppMilkyWay\\windowsformsappmilkyway\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A72265-7088-41EA-AE29-9A100D9F6548}|WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay.csproj|solutionrelative:windowsformsappmilkyway\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A72265-7088-41EA-AE29-9A100D9F6548}|WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay.csproj|C:\\Final Project APPSDEV data\\WindowsFormsAppMilkyWay\\windowsformsappmilkyway\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8A72265-7088-41EA-AE29-9A100D9F6548}|WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay.csproj|solutionrelative:windowsformsappmilkyway\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A72265-7088-41EA-AE29-9A100D9F6548}|WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay.csproj|C:\\Final Project APPSDEV data\\WindowsFormsAppMilkyWay\\windowsformsappmilkyway\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A72265-7088-41EA-AE29-9A100D9F6548}|WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay.csproj|solutionrelative:windowsformsappmilkyway\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A72265-7088-41EA-AE29-9A100D9F6548}|WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay.csproj|c:\\final project appsdev data\\windowsformsappmilkyway\\windowsformsappmilkyway\\customersupport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8A72265-7088-41EA-AE29-9A100D9F6548}|WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay.csproj|solutionrelative:windowsformsappmilkyway\\customersupport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A72265-7088-41EA-AE29-9A100D9F6548}|WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay.csproj|c:\\final project appsdev data\\windowsformsappmilkyway\\windowsformsappmilkyway\\forget pass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A72265-7088-41EA-AE29-9A100D9F6548}|WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay.csproj|solutionrelative:windowsformsappmilkyway\\forget pass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A72265-7088-41EA-AE29-9A100D9F6548}|WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay.csproj|C:\\Final Project APPSDEV data\\WindowsFormsAppMilkyWay\\windowsformsappmilkyway\\forget pass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8A72265-7088-41EA-AE29-9A100D9F6548}|WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay.csproj|solutionrelative:windowsformsappmilkyway\\forget pass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A72265-7088-41EA-AE29-9A100D9F6548}|WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay.csproj|c:\\final project appsdev data\\windowsformsappmilkyway\\windowsformsappmilkyway\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A72265-7088-41EA-AE29-9A100D9F6548}|WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay.csproj|solutionrelative:windowsformsappmilkyway\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A72265-7088-41EA-AE29-9A100D9F6548}|WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay.csproj|C:\\Final Project APPSDEV data\\WindowsFormsAppMilkyWay\\windowsformsappmilkyway\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8A72265-7088-41EA-AE29-9A100D9F6548}|WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay.csproj|solutionrelative:windowsformsappmilkyway\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A72265-7088-41EA-AE29-9A100D9F6548}|WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay.csproj|C:\\Final Project APPSDEV data\\WindowsFormsAppMilkyWay\\windowsformsappmilkyway\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8A72265-7088-41EA-AE29-9A100D9F6548}|WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay.csproj|solutionrelative:windowsformsappmilkyway\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A72265-7088-41EA-AE29-9A100D9F6548}|WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay.csproj|C:\\Final Project APPSDEV data\\WindowsFormsAppMilkyWay\\windowsformsappmilkyway\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8A72265-7088-41EA-AE29-9A100D9F6548}|WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay.csproj|solutionrelative:windowsformsappmilkyway\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A72265-7088-41EA-AE29-9A100D9F6548}|WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay.csproj|C:\\Final Project APPSDEV data\\WindowsFormsAppMilkyWay\\windowsformsappmilkyway\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A72265-7088-41EA-AE29-9A100D9F6548}|WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay.csproj|solutionrelative:windowsformsappmilkyway\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product25.cs [Design]",
+              "DocumentMoniker": "C:\\Final Project APPSDEV data\\WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay\\Product25.cs",
+              "RelativeDocumentMoniker": "WindowsFormsAppMilkyWay\\Product25.cs",
+              "ToolTip": "C:\\Final Project APPSDEV data\\WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay\\Product25.cs [Design]",
+              "RelativeToolTip": "WindowsFormsAppMilkyWay\\Product25.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T01:30:23.72Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Recommended1.cs",
+              "DocumentMoniker": "C:\\Final Project APPSDEV data\\WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay\\Recommended1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsAppMilkyWay\\Recommended1.cs",
+              "ToolTip": "C:\\Final Project APPSDEV data\\WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay\\Recommended1.cs",
+              "RelativeToolTip": "WindowsFormsAppMilkyWay\\Recommended1.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T01:28:31.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Recommended1.cs [Design]",
+              "DocumentMoniker": "C:\\Final Project APPSDEV data\\WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay\\Recommended1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsAppMilkyWay\\Recommended1.cs",
+              "ToolTip": "C:\\Final Project APPSDEV data\\WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay\\Recommended1.cs [Design]",
+              "RelativeToolTip": "WindowsFormsAppMilkyWay\\Recommended1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T01:28:14.322Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MilkyWay.cs",
+              "DocumentMoniker": "C:\\Final Project APPSDEV data\\WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay\\MilkyWay.cs",
+              "RelativeDocumentMoniker": "WindowsFormsAppMilkyWay\\MilkyWay.cs",
+              "ToolTip": "C:\\Final Project APPSDEV data\\WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay\\MilkyWay.cs",
+              "RelativeToolTip": "WindowsFormsAppMilkyWay\\MilkyWay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T01:26:02.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MilkyWay.cs [Design]",
+              "DocumentMoniker": "C:\\Final Project APPSDEV data\\WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay\\MilkyWay.cs",
+              "RelativeDocumentMoniker": "WindowsFormsAppMilkyWay\\MilkyWay.cs",
+              "ToolTip": "C:\\Final Project APPSDEV data\\WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay\\MilkyWay.cs [Design]",
+              "RelativeToolTip": "WindowsFormsAppMilkyWay\\MilkyWay.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T01:25:58.874Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Log In.cs",
+              "DocumentMoniker": "C:\\Final Project APPSDEV data\\WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay\\Log In.cs",
+              "RelativeDocumentMoniker": "WindowsFormsAppMilkyWay\\Log In.cs",
+              "ToolTip": "C:\\Final Project APPSDEV data\\WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay\\Log In.cs",
+              "RelativeToolTip": "WindowsFormsAppMilkyWay\\Log In.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAQwIgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T16:36:03.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Log In.cs [Design]",
+              "DocumentMoniker": "C:\\Final Project APPSDEV data\\WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay\\Log In.cs",
+              "RelativeDocumentMoniker": "WindowsFormsAppMilkyWay\\Log In.cs",
+              "ToolTip": "C:\\Final Project APPSDEV data\\WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay\\Log In.cs [Design]",
+              "RelativeToolTip": "WindowsFormsAppMilkyWay\\Log In.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T16:36:00.832Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Final Project APPSDEV data\\WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay\\MainForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsAppMilkyWay\\MainForm.cs",
+              "ToolTip": "C:\\Final Project APPSDEV data\\WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay\\MainForm.cs",
+              "RelativeToolTip": "WindowsFormsAppMilkyWay\\MainForm.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAA2wGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T16:16:13.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Final Project APPSDEV data\\WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay\\MainForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsAppMilkyWay\\MainForm.cs",
+              "ToolTip": "C:\\Final Project APPSDEV data\\WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay\\MainForm.cs [Design]",
+              "RelativeToolTip": "WindowsFormsAppMilkyWay\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T16:15:45.855Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SignUp.cs [Design]",
+              "DocumentMoniker": "C:\\Final Project APPSDEV data\\WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay\\SignUp.cs",
+              "RelativeDocumentMoniker": "WindowsFormsAppMilkyWay\\SignUp.cs",
+              "ToolTip": "C:\\Final Project APPSDEV data\\WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay\\SignUp.cs [Design]",
+              "RelativeToolTip": "WindowsFormsAppMilkyWay\\SignUp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T15:40:14.236Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "C:\\Final Project APPSDEV data\\WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay\\Home.cs",
+              "RelativeDocumentMoniker": "WindowsFormsAppMilkyWay\\Home.cs",
+              "ToolTip": "C:\\Final Project APPSDEV data\\WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay\\Home.cs [Design]",
+              "RelativeToolTip": "WindowsFormsAppMilkyWay\\Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T15:41:59.26Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.cs",
+              "DocumentMoniker": "C:\\Final Project APPSDEV data\\WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay\\Home.cs",
+              "RelativeDocumentMoniker": "WindowsFormsAppMilkyWay\\Home.cs",
+              "ToolTip": "C:\\Final Project APPSDEV data\\WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay\\Home.cs",
+              "RelativeToolTip": "WindowsFormsAppMilkyWay\\Home.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAmwGIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T09:20:35.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SignUp.cs",
+              "DocumentMoniker": "C:\\Final Project APPSDEV data\\WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay\\SignUp.cs",
+              "RelativeDocumentMoniker": "WindowsFormsAppMilkyWay\\SignUp.cs",
+              "ToolTip": "C:\\Final Project APPSDEV data\\WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay\\SignUp.cs",
+              "RelativeToolTip": "WindowsFormsAppMilkyWay\\SignUp.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAF8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T15:40:17.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Profile.cs [Design]",
+              "DocumentMoniker": "C:\\Final Project APPSDEV data\\WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay\\Profile.cs",
+              "RelativeDocumentMoniker": "WindowsFormsAppMilkyWay\\Profile.cs",
+              "ToolTip": "C:\\Final Project APPSDEV data\\WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay\\Profile.cs [Design]",
+              "RelativeToolTip": "WindowsFormsAppMilkyWay\\Profile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T16:41:21.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomerSupport.cs [Design]",
+              "DocumentMoniker": "C:\\Final Project APPSDEV data\\WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay\\CustomerSupport.cs",
+              "RelativeDocumentMoniker": "WindowsFormsAppMilkyWay\\CustomerSupport.cs",
+              "ToolTip": "C:\\Final Project APPSDEV data\\WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay\\CustomerSupport.cs [Design]",
+              "RelativeToolTip": "WindowsFormsAppMilkyWay\\CustomerSupport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T00:14:12.924Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Profile.cs",
+              "DocumentMoniker": "C:\\Final Project APPSDEV data\\WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay\\Profile.cs",
+              "RelativeDocumentMoniker": "WindowsFormsAppMilkyWay\\Profile.cs",
+              "ToolTip": "C:\\Final Project APPSDEV data\\WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay\\Profile.cs",
+              "RelativeToolTip": "WindowsFormsAppMilkyWay\\Profile.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T16:41:23.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Forget Pass.cs",
+              "DocumentMoniker": "C:\\Final Project APPSDEV data\\WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay\\Forget Pass.cs",
+              "RelativeDocumentMoniker": "WindowsFormsAppMilkyWay\\Forget Pass.cs",
+              "ToolTip": "C:\\Final Project APPSDEV data\\WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay\\Forget Pass.cs",
+              "RelativeToolTip": "WindowsFormsAppMilkyWay\\Forget Pass.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwEEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T23:36:14.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Forget Pass.cs [Design]",
+              "DocumentMoniker": "C:\\Final Project APPSDEV data\\WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay\\Forget Pass.cs",
+              "RelativeDocumentMoniker": "WindowsFormsAppMilkyWay\\Forget Pass.cs",
+              "ToolTip": "C:\\Final Project APPSDEV data\\WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay\\Forget Pass.cs [Design]",
+              "RelativeToolTip": "WindowsFormsAppMilkyWay\\Forget Pass.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T16:17:47.543Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Final Project APPSDEV data\\WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay\\Message.cs",
+              "RelativeDocumentMoniker": "WindowsFormsAppMilkyWay\\Message.cs",
+              "ToolTip": "C:\\Final Project APPSDEV data\\WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay\\Message.cs",
+              "RelativeToolTip": "WindowsFormsAppMilkyWay\\Message.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T16:44:38.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Message.cs [Design]",
+              "DocumentMoniker": "C:\\Final Project APPSDEV data\\WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay\\Message.cs",
+              "RelativeDocumentMoniker": "WindowsFormsAppMilkyWay\\Message.cs",
+              "ToolTip": "C:\\Final Project APPSDEV data\\WindowsFormsAppMilkyWay\\WindowsFormsAppMilkyWay\\Message.cs [Design]",
+              "RelativeToolTip": "WindowsFormsAppMilkyWay\\Message.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T16:44:35.371Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
